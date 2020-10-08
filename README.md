@@ -4,12 +4,12 @@ UserName:IAC-Document
 
 Host Email: peng.daniel@iac.com.tw (可更改)
 
-password:
+password:Iac#12345
 
 ## 如何登錄GitBook?
-gitbook.io
+https://peng-daniel.gitbook.io/iac-document/
 
-
+gitbook管理頁面: https://app.gitbook.com/login > 選透過github登錄
 
 # gitbook 同步命令整理
 
