@@ -1,10 +1,10 @@
 # IAC-Document管理資訊
 
-UserName:IAC-Document
+UserName: IAC-Document
 
 Host Email: peng.daniel@iac.com.tw (可更改)
 
-password:Iac#12345
+password: Iac#12345
 
 ## 如何登錄GitBook?
 https://peng-daniel.gitbook.io/iac-document/
@@ -40,3 +40,10 @@ Describe:
     基礎Gitbook使用教學
 ```
 
+# TortoiseGit 設定
+Gitbook帳號資訊:
+```git
+UserName: IAC-Document
+password: Iac#12345
+```
+![Getting Started](images/tortoiscGit_Remote.bmp)
