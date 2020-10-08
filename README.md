@@ -15,6 +15,8 @@ gitbook.io
 
 情境一: 同步IAC-Doucment
 ```Bash
+mkdir gitbook
+cd gitbook
 git clone https://github.com/IAC-Document/Doc.git
 git pull
 ```
@@ -31,3 +33,10 @@ git push -u origin main
 
 
 # Doc Commit 格式 (To Be Define)
+```git
+Doc:
+    README.md
+Describe:
+    基礎Gitbook使用教學
+```
+
