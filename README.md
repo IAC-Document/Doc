@@ -21,7 +21,8 @@ git pull
 
 情境二: 修改README.md文件並上傳
 ```Bash
-git restore README.md
+先用editor修改README.md
+git add README.md
 git commit -m "fix README.md"
 git push -u origin main
 ```
