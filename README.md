@@ -11,6 +11,8 @@ https://peng-daniel.gitbook.io/iac-document/
 
 gitbook管理頁面: https://app.gitbook.com/login > 選透過github登錄
 
+Repo: https://github.com/IAC-Document/Doc.git
+
 # gitbook 同步命令整理
 
 情境一: 同步IAC-Doucment
